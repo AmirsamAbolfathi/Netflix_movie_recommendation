@@ -21,12 +21,6 @@ A content-based recommendation web app that suggests Netflix movies and TV shows
 
 🔗 **[Try it on Streamlit Cloud](https://netflix-movie-recommendation-cyber-fenix.streamlit.app/)**
 
-## 🖥️ Demo
-
-> Add a screenshot or GIF of the app here once deployed.
-
----
-
 ## 🧠 How It Works
 
 1. Each title in the dataset is turned into a text string combining its **title, type, release year, and age certification**.
